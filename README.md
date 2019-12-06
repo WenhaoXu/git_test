@@ -1,4 +1,4 @@
 # git_test
 1 version
 edit
-add tag
+add tag v2
